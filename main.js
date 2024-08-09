@@ -8,7 +8,7 @@ div_formulario.className = "div-formularios";
 let formularios = [
     { nombre: "Login", link: "componentes/login/login.html" },
     { nombre: "Busqueda", link: "componentes/formularioDeBusqueda/fBusqueda.html" },
-    { nombre: "Comentarios Reseñas", link: "componentes/formularioDeComentariosReseñas/fResennas.html" },
+    { nombre: "Comentarios Reseñas", link: "componentes/formularioDeComentarios/fResennas.html" },
     { nombre: "Contacto", link: "componentes/formularioDeContacto/fContacto.html" },
     { nombre: "Pedido Compras", link: "componentes/formularioDePedidoCompras/fCompras.html" },
     { nombre: "Registro", link: "componentes/formularioDeRegistro/fRegistro.html" }
